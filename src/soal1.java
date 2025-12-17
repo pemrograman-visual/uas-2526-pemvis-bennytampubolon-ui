@@ -1,10 +1,9 @@
 
 //benny tampubolon- 12s25044
-//nayla panjaitan-12s25060
-import java.util.*;
+//nayla panjaitan-12s25060import java.util.*;
 import java.lang.Math;
 
-public class SOAL1{
+public class soal1 {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
