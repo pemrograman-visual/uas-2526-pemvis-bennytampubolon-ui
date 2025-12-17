@@ -1,6 +1,7 @@
 
 //benny tampubolon- 12s25044
-//nayla panjaitan-12s25060import java.util.*;
+//nayla panjaitan-12s25060
+import java.util.*;
 import java.lang.Math;
 
 public class soal1 {
